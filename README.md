@@ -1,2 +1,0 @@
-# GitGithubTest
-Tests on integration
